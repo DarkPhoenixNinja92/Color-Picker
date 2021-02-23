@@ -1,0 +1,16 @@
+body {}
+
+#change {
+    padding: 2em;
+    margin: 1em;
+    background-color: mediumvioletred;
+    color: cornsilk;
+}
+
+#change:hover {
+    background-color: darkblue;
+}
+
+#change:active {
+    background-color: forestgreen;
+}
